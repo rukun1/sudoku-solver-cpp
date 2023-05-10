@@ -1,0 +1,3 @@
+﻿  sudokusolver.cpp
+C:\Users\rukun\source\repos\sudokusolver\sudokusolver\sudokusolver.cpp(26,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  sudokusolver.vcxproj -> C:\Users\rukun\source\repos\sudokusolver\x64\Debug\sudokusolver.exe
